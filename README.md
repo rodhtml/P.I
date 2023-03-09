@@ -1,2 +1,2 @@
 # P.I
-#Banco de dados projeto integrador banco
+#Banco de dados, projeto integrador 
